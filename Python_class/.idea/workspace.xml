@@ -4,14 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff6ae1c9-f376-4ccd-818d-8e27a0650bf9" name="Changes" comment="" />
+    <list default="true" id="ff6ae1c9-f376-4ccd-818d-8e27a0650bf9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Raja.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Raja.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/List methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/append.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/clear.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/copy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/count.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/extend.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/insert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/pop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/pyvenv.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/remove.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/practice.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PythonClassOct2022/PythonClassOct2022" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -26,7 +44,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Raja&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/PythonClassOct2022/Python_class&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
