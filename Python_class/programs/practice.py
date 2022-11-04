@@ -1,134 +1,144 @@
-#capitalize method
-
-str1="His is raja yanamala"
-str2=str1.capitalize()
-print(str2)
-
-#casefold-- this method is just like lower method but casefold is stronger then lower it will convert all lower case to upper case
-
-str1="THIS IS RAJA YANAMALA"
-str2=str.casefold()
-print(str2)
-
-#center--- this will center the string by giving whitespaces in front and back of the string
-
-str1="python"
-str2=str1.center(20)
-print(str2)
-
-
-str1="python"
-str2=str1.center(20,"0")
-print(str2)
-
-#count-- it will count thw specific value how many time is there in string and we can take counts how many time we need
-#just we need to increase the syntex
-
-str1="th is is raja yanamala is"
-count1=str1.count("is")
-print(count1)
-count2=str1.count("a")
-print(count2)
-count3=str1.count("Raja")
-print(count3)
-
-#Endswith---- we can check the end of the string word is correct or not
-
-str1="this is raja yanamala"
-str2=str1.endswith("ala")
-print(str2)
-
-#expendtabs--- we can give tabs between letter in string and we can mention the size as well
-
-str1="p\ty\tt\th\to\tn"
-str2=str1.expandtabs(10)
-print(str2)
-
-#find--- this is find the potion of specific letter in the string
-
-str1="this is raja yanamala"
-str2=str1.find("a", 1,15)
-print(str2)
-
-#format-- we can use this to add the elements to string at a specifie position
-
-str1="this {name} raja {name2} from srm {name3}"
-str2=str1.format(name="is", name3="univercity", name2="yanamala")
-print(str2)
-
-#index--we can know the specific element index by using this method
-str1="this is raja yanamala"
-str2=str1.index("y")
-print(str2)
-
-#isalnum--- isalnum will represent given string is true or false,
-#if given string is alpanumaric then it is true or it will be false
-str1="raja yanamala222"
-str2=str1.isalnum()
-print(str2)
-
-str1="rajayanamala222"
-str2=str1.isalnum()
-print(str2)
-
-#isalpha ----isalpha will represent given string is true or false,
-#if we give any special charecter or digits will be false or true
-str1="thisisRAJA"
-str2=str1.isalpha()
-print(str2)
-
-list=[1,2,3,4,5,6]
-j=0
-for i in list:
-    i=i+ list
-    print(i, end=(' '))
-
-i=15
-while  i>00:
-    i=i-1
-    print(i,end=(' '))
-
-
-# Decide the row count. (above pattern contains 5 rows)
-row = 6
-# start: 1
-# stop: row+1 (range never include stop number in result)
-# step: 1
-# run loop 5 times
-for i in range(1,5 + 1, 1):
+number=int(input())
+for i in range(0,number):
     print(i)
-    # Run inner loop i+1 times
-    for j in range(1, i + 1):
-        print(j, end=' ')
-    # empty line after each row
-    print("")
 
-# Python program to find sum of
-# digits of a number until
-# sum becomes single digit.
-import math
+#Example 2: Python program to print all the even numbers within the given range.
 
+print("Eenter the number:")
+number=int(input())
+for i in range(0,number):
+    if i%2==0:
+        print(i, end=(',')
 
-# method to find sum of digits
-# of a number until sum becomes
-# single digit
-def digSum(n):
-    sum = 0
+#Example 3: Python program to calculate the sum of all numbers from 1 to a given number.
 
-    while (n > 0 or sum > 9):
-
-        if (n == 0):
-            n = sum
-            sum = 0
-
-        sum += n % 10
-        n /= 10
-
-    return sum
+print("enter the number")
+number=int(input())
+sum=0
+for i in range(1,number+1):
+    sum=sum+i
+print(sum)
 
 
-# Driver method
-n = 1234
-print(digSum(n))
+#example 4:  Python program to calculate the sum of all the odd numbers within the given range.
 
-# This code is contributed by Gitanjali.
+print("Enter the number ")
+number=int(input())
+for i in range(1,number):
+    if i%2==1:
+        print(i)
+
+#Example 5: Python program to print a multiplication table of a given number
+
+print("enter the table number")
+number=int(input())
+for i in range(10+1):
+    print(number,"x",i,"=",number*1)
+
+#Example 6: Python program to display numbers from a list using a for loop.
+
+
+list=[1,2,3,4,5,6,7]
+for i in list:
+    print(i)
+
+#Example 7: Python program to count the total number of digits in a number.
+
+print("enter the number")
+given_number=int(input())
+
+given_number=str(given_number)
+count=0
+for i in given_number:
+    count+=1
+print(count)
+
+
+#Example 8: Python program to check if the given string is a palindrome.
+
+print("please enter the string")
+string=str(input())
+rev_string=string [: : -1]
+if string== rev_string:
+    print("the given value is palindome")
+else:
+    print("the given value is not palindome")
+
+#Example 9: Python program that accepts a word from the user and reverses it.
+
+given_string=input()
+rev_string=""
+for i in given_string:
+    rev_string=i+rev_string
+print(rev_string)
+
+#Example 10: Python program to check if a given number is an Armstrong number
+
+given_number=int(input())
+given_number=str(given_number)
+string_lengh=len(given_number)
+sum=0
+for i in given_number:
+    sum+=int(i)**string_lengh
+ print(sum)
+
+#Example 11: Python program to count the number of even and odd numbers from a series of numbers.
+
+list=[1,2,3,4,5,5,6,7,8,9]
+for i in list:
+    if i%2==0:
+        print(i,"is a even numner")
+    else:
+
+        print(i,"is a odd number")
+
+
+
+#example 1:Take 10 integers from keyboard using loop and print their average value on the screen.
+
+sum=0
+i=10
+while i >0:
+    num=int(input("please enter the number:"))
+    sum=sum+num
+    i=i-1
+print("average is ",sum/10.0)
+
+#example  2: Print multiplication table of 24, 50 and 29 using loop.
+
+i=1
+table=int(input("please enter the table:"))
+while i<=10:
+    print(table,"x",i,"=",table*i)
+    i=i+1
+
+#example  3:Write an infinite loop.
+#A inifinte loop never ends. Condition is always true.
+
+while True:
+    print("i love you")
+
+
+#example  4: Factorial of any number n is represented by n! and is equal to 1*2*3*....*(n-1)*n. E.g.-
+#4! = 1*2*3*4 = 24
+#3! = 3*2*1 = 6
+#2! = 2*1 = 2
+#Also,
+#1! = 1
+#0! = 1
+#Write a program to calculate factorial of a number.
+
+number=int(input("please enter the number:"))
+fac=2
+if number==0:
+    print(1)
+else:
+    while number>=1:
+        fac=fac*number
+        number=number-1
+    print(fac)
+
+
+dic={2:"raja","string":[1,2,3,4,5],[1,2,3]:"string"}
+print(dic)
+
