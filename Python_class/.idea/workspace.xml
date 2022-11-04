@@ -5,23 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff6ae1c9-f376-4ccd-818d-8e27a0650bf9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Raja.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Raja.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/methods/List methods.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/methods/append.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/methods/clear.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/methods/copy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/methods/count.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/methods/extend.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/methods/index.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/methods/insert.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/methods/pop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/methods/pyvenv.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/methods/remove.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/methods/sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Induction/Data types.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Induction/Naming Conventions python.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Induction/Python Selenium Syllabus (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditional_statements/if and else.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_methods/List methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_methods/append.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_methods/clear.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_methods/copy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_methods/count.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_methods/extend.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_methods/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_methods/insert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_methods/pop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_methods/pyvenv.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_methods/remove.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_methods/sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/For loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/loops/For loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/programs/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/Basics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/String methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/capitalize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/casefold.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/center.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/count.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/endswith.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/expandtabs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/f-string_format.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/find.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/floating_precedance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/format.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/isainum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/isalpha.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/islower.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/isspace.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/istital.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/isupper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/join.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/lower.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/replace.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/split.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/strip.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/swapcase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/title.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/upper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/using_%_operators_in_format.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
