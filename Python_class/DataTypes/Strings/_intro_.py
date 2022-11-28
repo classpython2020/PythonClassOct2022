@@ -1,3 +1,29 @@
+#1.string is an immutable data type
+#2.string has order collection
+#3.string supports index
+#4.string supports itterating
+#5.
+#6.
+#7. string can be used in loops
+
+
+
+#how to create a empty string
+  #there are four ways to create a string by using quotes
+
+string=''
+print(type(string))
+
+
+string=""
+print(type(string))
+
+string=''' '''
+print(type(string))
+
+string=""" """
+print(type(string))
+
 #'',"",''',""" """ quotes use
 
 list='this is raja yanamala'
@@ -14,9 +40,10 @@ print(list)
 
 #how to use '''
 list='''this is 
-raja yanamala'''
+raja yanamala'''  #we use the triple quotes to write the sentance in the next line
 print(list)
 
+#we can use \n also to make different lines in string
 
 list='''this is \nraja yanamala'''
 print(list)
@@ -107,6 +134,8 @@ print(list1>=list2)
 list1="this is  yanamala"
 list2="this is raja yanamala"
 print(list1>=list2)
+
+
 
 
 

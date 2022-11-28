@@ -1,0 +1,13 @@
+1.Function :- Use lower case word or words. Saparate words by using underscore to improve readability.              (function,my_function)
+
+2.Variable :- Use lower case letter,word or words. Saparate words by using underscore to improve readability.       (v, variable, my_variable)
+
+3.Method   :- Use lower case word or words. Saparate words by using underscore to improve readability.              (method, my_method)
+
+4.Class    :- Start each word with capital letter and Do not saparate with underscore.                              (Class, MyClass)
+
+5.constant :- Use uppercase single letter, word, words. Saparate words by using underscore                          (C, CONSTANT, MY_CONSTANT)
+
+6.Module   :- Use short, lower case word or words. Saparate words by using underscore to improve readability.       (module, my_module)
+
+7.package  :- use short, lower case word or words. Do not saparate with underscore.                                 (package, mypackage)

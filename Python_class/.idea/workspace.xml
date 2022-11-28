@@ -4,14 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff6ae1c9-f376-4ccd-818d-8e27a0650bf9" name="Changes" comment="" />
+    <list default="true" id="ff6ae1c9-f376-4ccd-818d-8e27a0650bf9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional_statements/else.py" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional_statements/else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypes/List/listMethods/List methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/List/listMethods/List methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypes/Strings/StringMethods/Basics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypes/Strings/StringMethods/String methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Strings/StringMethods/String methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypes/Strings/StringMethods/format.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Strings/StringMethods/format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/variable_data Types.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/variable_data Types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/Arithmetic operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/operators/Arithmetic operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/Assignment operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/operators/Assignment operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/Bitwise operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/operators/Bitwise operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/Comparison operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/operators/Comparison operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/Identity operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/operators/Identity operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/Logical operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/operators/Logical operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/Membership operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/operators/Membership operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/operator precedence.py" beforeDir="false" afterPath="$PROJECT_DIR$/operators/operator precedence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/Palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/practice.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PythonClassOct2022/PythonClassOct2022" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -26,10 +44,126 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Raja&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/PythonClassOct2022/Python_class&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="RunManager" selected="Python.practice">
+    <configuration name="__intro__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Raja" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium/__intro__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="arrayofintegers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Raja" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/arrayofintegers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Raja" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/factorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="maximumnumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Raja" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/maximumnumber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Raja" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.practice" />
+        <item itemvalue="Python.__intro__" />
+        <item itemvalue="Python.arrayofintegers" />
+        <item itemvalue="Python.factorial" />
+        <item itemvalue="Python.maximumnumber" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,5 +174,22 @@
       <updated>1665673311674</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DataTypes/List/listMethods/List methods.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="NONE" type="python-line">
+          <url>file://$PROJECT_DIR$/DataTypes/Strings/_intro_.py</url>
+          <line>23</line>
+          <log-expression expression="string=&quot;&quot;&quot; &quot;&quot;&quot;&#10;print(type(string))" language="Python" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,7 +1,17 @@
 
 #bitwise operator
 
-# and &
+#and (&)
+#or  (|)
+#Xor (^)
+#right shift  (>>)
+#left shift   (<<)
+
+
+#********************************************examples*************************************************
+
+
+# and & :-Sets each bit to 1 if both bits are 1
 
 a=70
 b=80
@@ -15,7 +25,7 @@ a=102
 b=155
 print(a&b)
 
-# Or |
+# Or |:-Sets each bit to 1 if one of two bits is 1
 
 a=20
 b=60
@@ -33,7 +43,7 @@ a=77
 b=66
 print(a|b)
 
-# Xor ^
+# Xor ^:-Sets each bit to 1 if only one of two bits is 1
 
 a=17
 b=15
@@ -51,7 +61,7 @@ a=27
 b=5
 print(a^b)
 
-# not ~
+# not ~ :-Inverts all the bits
 
 a=15
 x=~a
@@ -69,7 +79,7 @@ a=22
 x=~a
 print(x)
 
-# right shift >>
+# right shift >> :Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off
 
 a=15
 print(a>>4)
