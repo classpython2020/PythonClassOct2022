@@ -1,6 +1,13 @@
 #identity operators
 
 #is
+#is not
+
+
+#**************************************Example************************************
+
+
+#is :-Returns True if both variables are the same object
 a=5
 b=10
 print(a is b)
@@ -17,7 +24,7 @@ a=20
 b=20
 print(a is b)
 
-#is not
+#is not :-Returns True if both variables are not the same object
 
 a=20
 b=20

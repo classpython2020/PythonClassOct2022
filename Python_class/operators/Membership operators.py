@@ -1,6 +1,13 @@
 
 #membership operators
 
+#In
+#not in
+
+#*****************************************Example**********************************************
+
+#in  :-Returns True if a sequence with the specified value is present in the object
+
 fruits=["apple,pine apple,orange,mango"]
 if "apple" in fruits:
     print("yes apple in fruits")
@@ -19,7 +26,7 @@ if "raji" in names:
 else:
     print("raji is not in names")
 
-#not in
+#not in :-Returns True if a sequence with the specified value is not present in the object
 
 list=[1,2,3,4,5]
 if 6 not in list:
@@ -35,8 +42,8 @@ else:
     print("banana is a fruit")
 
 
-names=["Raja,venky,rakehs,malli"]
-if "raja" not in names:
+names=["raja,venky,rakehs,malli"]
+if "venky" not in names:
     print("raja is in list")
 else:
     print("raja is not in list")

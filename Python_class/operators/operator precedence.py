@@ -10,6 +10,7 @@
 #6.subtraction
 
 #main rule
+
 #perenthesis ()
 #exponantiation **
 #bitwisw operators & | ^ ~
