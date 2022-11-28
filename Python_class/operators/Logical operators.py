@@ -1,6 +1,12 @@
 #logical operataros
 
-#And
+#and
+#Or
+#not
+
+#*****************************************Example************************************
+
+#And :-Returns True if both statements are true
 
 a=55
 if a>=105 and a>=56:
@@ -21,7 +27,7 @@ else:
     print("false")
 
 
-#Or
+#Or :-Returns True if one of the statements is true
 
 a=77
 if a>55 or a>105:
@@ -42,7 +48,7 @@ else:
     print("yes a is equal to 67")
 
 
-#not
+#not :-Reverse the result, returns False if the result is true
 
 a=55
 print(not(a>65 and a>75))
@@ -50,5 +56,25 @@ print(not(a>65 and a>75))
 a=75
 print(not(a==75 or a==77))
 
-a=66""
+a=66
 print(not(a<=75 or a<=66))
+
+
+#Logical operetor
+#it will always returns boolean value.
+
+#and, or, not
+#
+#   a     b    a and b   a or b   not a   not b
+# TRUE	TRUE	TRUE	  TRUE	  FALSE	  FALSE
+# FALSE	TRUE	FALSE	  TRUE	  TRUE	  FALSE
+# TRUE	FALSE	FALSE	  TRUE	  FALSE   TRUE
+# FALSE	FALSE	FALSE	  FALSE	  TRUE	  TRUE
+
+a=True
+b= False
+
+print(a and b)
+print(a or b)
+print(not a)
+print(not b)

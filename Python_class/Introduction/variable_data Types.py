@@ -25,9 +25,9 @@ _ver=123
 
 #How we should'nt use
 
-2ver=123  # we will get error
+#2ver=123  # we will get error
 
-&ver=123
+#&ver=123
 
 
 #Data types
@@ -36,10 +36,10 @@ _ver=123
     # •	Integer----(1,2,3,….)
     # •	Float-------(1.0,2.0,…)
     #•	Complex Number
-#2.	Dictionary
+#2.	Dictionary {}
 #3.	Boolean-------- (true or false)
-#4.	Set
+#4.	Set {}
 #5.	Sequence Type
-#•	String----- (words)
-#•	Tuple
-#•	List
+#6•	String----- (words) ""
+#7•	Tuple ()
+#8•	List []
