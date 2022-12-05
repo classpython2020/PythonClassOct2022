@@ -28,3 +28,6 @@ print("a is grater than b") if a>b else print("b is grater than a")
 
 a=15
 {print("this is"),print("even number")} if a%2==0 else {print('i am '),print("odd number")}
+
+
+

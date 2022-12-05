@@ -1,16 +1,16 @@
+#function
 
-#when we are writing a code we can store that enteir code in one package and we need to give a name to that code.
-#then whenever we want to use that code with different inputs we can call that code by given name and modify the inputs
-#let's see how this will work out
-
-#syntex of function
+# A function is a block of code which only runs when it is called.
+#
+# You can pass data, known as parameters, into a function.
+#
+# A function can return data as a result.
 
 #def programname():
-
-    #we have to start with def and give a space and should give the name to that program which we write after
-    #we should write the program below of the given program name,
-    #or else if we write the program from starting of the line then that will not come under of that program,
-    #and will not show when we call that program with name.
+#we have to start with def and give a space and should give the name to that program which we write after
+#we should write the program below of the given program name,
+#or else if we write the program from starting of the line then that will not come under of that program,
+#and will not show when we call that program with name.
 
 #let's see how we write the program under of given name
 
@@ -110,6 +110,8 @@ def sumoftwonumbers():
     print(c)
 
 #2. function calling
+sumoftwonumbers()
+
 
 #type of functions
 
