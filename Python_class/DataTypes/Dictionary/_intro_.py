@@ -1,8 +1,13 @@
-#unordered collection
-#dic has key value
-#all keys are immutable
-#all values are mutable
-#dic mutable object
+#distionary
+#1. it is a mutable data type.
+#2. it keys are immutable.
+#3. it values are mutable
+#4. It won't have order colloction
+#5. it won't follow index
+#6. it will allow hetroganus elements.
+#7. it won't allow duplicates.
+#8. it will allow loops
+
 
 #Syntex
 
@@ -33,6 +38,7 @@ print(dic.get('key2'))   #returns none if key is not present in dicstionary
 
 dic={'key1':'value','key2':'value1','key3':'value2'}
 dic['key4']='value4'
+dic.values()
 print(dic)
 
 

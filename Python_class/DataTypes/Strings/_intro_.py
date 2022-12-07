@@ -1,10 +1,10 @@
-#1.string is an immutable data type
-#2.string has order collection
-#3.string supports index
-#4.string supports itterating
-#5.
-#6.
-#7. string can be used in loops
+#1.string is an immutable data type.
+#2.string has order collection.
+#3.string supports index.
+#4.string supports itterating.
+#5.string allows hetrogenous elements.
+#6.string can allow duplicates.
+#7. string can be used in loops.
 
 
 
@@ -25,6 +25,7 @@ string=""" """
 print(type(string))
 
 #'',"",''',""" """ quotes use
+# how to use string dirctly.
 
 list='this is raja yanamala'
 print(list)
