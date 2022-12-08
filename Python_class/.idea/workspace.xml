@@ -42,6 +42,7 @@
   }
 }</component>
   <component name="RunManager" selected="Python.practice">
+
     <configuration name="Employee_Class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Raja" />
       <option name="INTERPRETER_OPTIONS" value="" />
