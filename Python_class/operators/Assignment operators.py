@@ -1,6 +1,21 @@
 #Assignment operators (=)
 
-#=
+#Plus equal to            (+=)
+#minus equal to           (-=)
+#multipiction equal to    (*=)
+#exponantiation equal to  (**=)
+#divison equal to         (/=)
+#floor divison equal to   (//=)
+#moduals equal to         (%=)
+#And equal to             (&=)
+#or equal to              (|=)
+#Xor equal to             (^=)
+#right shift equal to     (>>=)
+#left shift equal to      (<<=)
+
+
+
+#= (aasignment operator)
 a=20
 print(a)
 
@@ -13,7 +28,7 @@ print(a)
 a=10
 print(a)
 
-#+=
+#+= (Plus equal)
 a=20
 a+=10
 print(a)
@@ -30,7 +45,7 @@ a=200
 a+=150
 print(a)
 
-#-=
+#-=   (minus equal)
 a=50
 a-=20
 print(a)
@@ -47,7 +62,7 @@ a=175
 a-=75
 print(a)
 
-#*=
+#*=  (maltipication equal)
 
 a=10
 a*=2
@@ -65,7 +80,7 @@ a=15
 a*=10
 print(a)
 
-#**=
+#**=   (exponantiation equal)
 
 a=10
 a**=3
@@ -83,7 +98,7 @@ a=5
 a**=5
 print(a)
 
-#/=
+#/=  (divison equal)
 
 a=10
 a/=4
@@ -101,7 +116,7 @@ a=66
 a/=5
 print(a)
 
-#//=
+#//=  (floor divison equal)
 
 a=15
 a//=9
@@ -119,7 +134,7 @@ a=60
 a//=7
 print(a)
 
-#%=
+#%= (modulus equal)
 
 a=15
 a%=9
@@ -137,7 +152,7 @@ a=17
 a%=2
 print(a)
 
-#&=
+#&= (and equal)
 
 a=15
 b=12
@@ -155,7 +170,7 @@ a=80
 b=125
 print(a&b)
 
-#|=
+#|=  (or equal)
 
 a=15
 b=12
@@ -173,7 +188,7 @@ a=120
 b=200
 print(a|b)
 
-#^=
+#^=  (Xor equal)
 
 a=20
 b=50
@@ -191,7 +206,7 @@ a=105
 b=175
 print(a^b)
 
-#>>=
+#>>= (right shift equal)
 
 a=50
 a>>=7
@@ -208,3 +223,5 @@ print(a)
 a=102
 a>>=6
 print(a)
+
+#<<=    (left shift equal)

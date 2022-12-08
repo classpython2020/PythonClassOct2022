@@ -1,16 +1,26 @@
 #methods in list
+#append
+#extend
+#insert
+#count
+#pop
+#remove
+#sort
+#copy
+#clear
+#index
 
 #append--- it can add the number or string at the last of the list
 list1=[1,2,444,443,3,2,45,3]
 list1.append(32)
 print(list1)
 
-#extend--- it can add the number or string at the starting of the list
+#extend--- it can be add any ittarable data types at the end of the current list
 list1=[1,2,444,443,3,2,45,3]
-list1.extend([32,43])
+list1.extend(('raja','rajesh'))
 print(list1)
 
-#insert---- it can add the number or string at the specipic index  of the list
+#insert---- it can adds an element at the specified position.
 list1=[1,2,444,443,3,2,45,3]
 list1.insert(7,9000)
 print(list1)
@@ -36,11 +46,11 @@ list1.sort()
 print(list1)
 
 list1=[1,2,444,443,3,2,45,3]
-list1.sort(reverse=False)
+list1.sort(reverse=False)  # by defualt reverse=false will be there
 print(list1)
 
 list1=[1,2,444,443,3,2,45,3]
-list1.sort(reverse=True)
+list1.sort(reverse=True)  #if we need to get descending order we need to give true
 print(list1)
 
 #copy--- it will copy
@@ -62,7 +72,6 @@ print(result)
 list1=[1,2,444,443,3,2,45,3]
 result=list1.index(3,3,7)
 print(result)
-
 
 #tuple
 
