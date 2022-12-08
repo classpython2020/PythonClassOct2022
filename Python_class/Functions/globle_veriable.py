@@ -16,7 +16,7 @@ def my_veriable():
 
 #2. it can be usuful for all functions in entair module
 
-x=10
+
 def my_function1():
     print(x)
 
@@ -41,3 +41,15 @@ def my_function4():
     print(x)
 
 my_function4()
+
+#what if we have same variable name for global and local variable.
+#if we don't mention global variable inside the function, no problem.
+#if we mention inside, then globle variable will replace the local variable.
+
+def my_function5():
+    global x   # we have to mention the globle variable like this
+    x=9        #whatever value will be inside the variable it will replace it,if varibale names are same.
+    x=x+1
+    print(x)
+
+my_function5()

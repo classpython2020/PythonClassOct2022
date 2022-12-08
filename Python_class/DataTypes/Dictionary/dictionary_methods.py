@@ -1,3 +1,4 @@
+#Dictionary Method.
 
 #key:- By using this methiod we can print the only keys from the Dictionary.
 
@@ -37,7 +38,7 @@ for i in result:
 
 dic={'key1':'value1','key2':'value2','key3':'value3'}
 result=dic.items()
-print(type(result))
+print(result)
 
  # if we don't need the output in dictionary we can use the for loop to print one by one.
 
