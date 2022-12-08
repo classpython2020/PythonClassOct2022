@@ -91,3 +91,7 @@ print(person.legs)
 #we can use instaneous variables by using object only, with out abject we can'nt use instaneous variable.
 #when we call the class automatically the constractor will execute
 #to use static variable we need to mention class name before of it
+
+
+
+
