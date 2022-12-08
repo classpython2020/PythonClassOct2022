@@ -1,6 +1,6 @@
 
 #set is a mutable
-#set should has immutable values (list,set,dictionary)
+#set should has immutable values (list,set,dictionary can't use these data types in set)
 #set is a unordering collection
 #set does  not allow indexing
 #set does not allow duplicate values
@@ -54,7 +54,7 @@ for i  in set:
  #for example we can convert list to tuple and tuple to set like that
 
 set={1,2,3,4,5}
-print(list(set))  #output will be in list like this [1, 2, 3, 4, 5]
+print(type(str(set))) #output will be in list like this [1, 2, 3, 4, 5]
 
  #like this we can convert from one data type to another data type
  #we can know the type of that data type by using type function

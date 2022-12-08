@@ -115,7 +115,7 @@ print(str2)
 
 
 str1="this is raja yanamala"
-str2=str1.startswith("this",[7])
+str2=str1.startswith("this",0,7)
 print(str2)
 
 
@@ -447,7 +447,7 @@ string.isnumeric()
 a = "\u0030" #unicode for 0
 b = "\u00B2" #unicode for &sup2;
 c = "10km2"
-d = "-1"
+d = "1"
 e = "1.5"
 
 print(a.isnumeric())
@@ -463,7 +463,7 @@ print(e.isnumeric())
 #Syntax
 string.isprintable()
 
-txt = "Hello! Are you #1?"
+txt = "Hello this is r@j@ Yanamala "
 x = txt.isprintable()
 print(x)
 
@@ -476,7 +476,7 @@ print(x)
 #Syntax
 string.isspace()
 
-str1="    "
+str1=" "
 str2=str1.isspace()
 print(str2)
 
@@ -654,7 +654,8 @@ txt = "I could eat bananas all day, bananas are my favorite fruit"
 x = txt.rpartition("bananas")
 print(x)
 
-#If the specified value is not found, the rpartition() method returns a tuple containing: 1 - an empty string, 2 - an empty string, 3 - the whole string:
+#If the specified value is not found, the rpartition() method returns a tuple containing:
+# 1 - an empty string, 2 - an empty string, 3 - the whole string:
 
 txt = "I could eat bananas all day, bananas are my favorite fruit"
 x = txt.rpartition("apples")

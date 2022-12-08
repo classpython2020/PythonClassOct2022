@@ -20,6 +20,7 @@
 def my_function(name,age,loction):
     print("my",name,"yanamala, i am",age,"old, and i am from",loction)
 
+
 print(my_function("Raja",27,"nellore"))
 
 #paramaters and arguments
